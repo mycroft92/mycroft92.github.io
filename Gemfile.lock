@@ -33,6 +33,9 @@ GEM
       jekyll (~> 3.3)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
+    jekyll-octicons (4.2.0)
+      jekyll (~> 3.1)
+      octicons (= 5.2.0)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
@@ -46,12 +49,17 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
+    mini_portile2 (2.3.0)
     minima (2.3.0)
       jekyll (~> 3.5)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     multi_json (1.13.1)
     multipart-post (2.0.0)
+    nokogiri (1.8.2)
+      mini_portile2 (~> 2.3.0)
+    octicons (5.2.0)
+      nokogiri (>= 1.6.3.1)
     octokit (4.8.0)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.1)
@@ -80,6 +88,7 @@ DEPENDENCIES
   jekyll (~> 3.7.2)
   jekyll-feed (~> 0.6)
   jekyll-gist
+  jekyll-octicons
   jekyll-paginate
   minima (~> 2.0)
   pygments.rb

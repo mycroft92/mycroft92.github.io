@@ -16,12 +16,11 @@
 title: Mycroft92's Blog
 email: madhukaryerraguntla@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
+  Random ramblings of a jack of all trades.
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://mycroft92.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lean_panda
+facebook_username: madhukar9x
 github_username:  mycroft92
 
 
@@ -34,6 +33,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-octicons
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -41,6 +41,8 @@ plugins:
 # exclude:
 #   - Gemfile
 #   - Gemfile.lock
+#   - .gitignore
+#   - .git/
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
