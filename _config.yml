@@ -37,6 +37,9 @@ plugins:
   - jekyll-gist
   - jekyll-octicons
 
+permalink: /:year-:month-:day-:title/
+paginate: 5
+
 #mydefines
 mytags:
   - Duelyst
