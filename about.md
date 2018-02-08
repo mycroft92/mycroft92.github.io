@@ -8,3 +8,4 @@ I am Madhukar and this is my personal blog. I am a design engineer at NXP semico
 ## Acknowledgements
  - This site is made possible with templates from [poole](https://github.com/poole/poole) and [hyde](https://github.com/poole/hyde).
  - Social media icons by [Alfredo](https://www.iconfinder.com/AlfredoCreates)
+ - Gamepad icons by [Ionicons](http://ionicons.com)
