@@ -4,7 +4,7 @@
  <title>Mycroft92's Blog</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-02-08T03:16:46+05:30</updated>
+ <updated>2018-02-08T09:34:19+05:30</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -19,7 +19,7 @@
    <id>http://localhost:4000/duelyst/2018/02/08/my-fist-post</id>
    <content type="html">&lt;p&gt;This is my first post on this blog and I thought I should write about my current favorite videogame &lt;a href=&quot;https://duelyst.com&quot;&gt;Duelyst&lt;/a&gt;. For those of you who don’t know , Duelyst is a turn-based strategy game that combines elements of card-based games(like Hearthstone) and board based games (like Chess). Each game is a 1v1 battle between two online players. You choose a general from 6 different factions, each with their own unique abilities, minions and spells; and fight to reduce the opponent general’s health to 0 from 25. The games have a lot of depth and are surprisingly fast too(each match lasts for an average of 10min).&lt;/p&gt;
 
-&lt;p&gt;This is the current deck I am piloting this season, called “tempo heal ziran” given &lt;a href=&quot;/assets/duelyst/Lyonar/heal-tempo.png&quot;&gt;here&lt;/a&gt;. This is arguably the best lyonar deck on the ladder right now and is super fun to play too. I am also piloting variants of this deck in the ongoing team wars. I will add more details about duelyst and this deck’s playstyle soon.&lt;/p&gt;
+&lt;p&gt;The current deck I am piloting this season, called “tempo heal ziran”, is given &lt;a href=&quot;/assets/duelyst/Lyonar/heal-tempo.png&quot;&gt;here&lt;/a&gt;. This is arguably the best lyonar deck on the ladder right now and is super fun to play too. I am also piloting variants of this deck in the ongoing team wars. I will add more details about duelyst and this deck’s playstyle soon.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/duelyst/Lyonar/heal-tempo.png&quot; alt=&quot;Heal-Tempo&quot; /&gt;&lt;/p&gt;
 
