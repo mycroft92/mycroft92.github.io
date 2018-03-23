@@ -4,6 +4,7 @@ title: About me
 ---
 
 I am Madhukar and this is my personal blog. I am a design engineer at NXP semiconductors and also am a part-time PhD student in IIT delhi. 
+I plan to write about programming, gaming and music in general. Updates might be spurious depending on my schedule.
 
 ## Acknowledgements
  - This site is made possible with templates from [poole](https://github.com/poole/poole) and [hyde](https://github.com/poole/hyde).
