@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My first post"
-categories: duelyst
+categories: Duelyst
 tags: Duelyst Decks
 ---
 
