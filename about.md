@@ -2,6 +2,8 @@
 layout: page
 title: About me
 ---
+
+
 ![Madhukar](/assets/personal/showoff.jpg)
 
 I am Madhukar and this is my personal blog. I am a design engineer at NXP semiconductors and also am a part-time PhD student in IIT delhi. 
