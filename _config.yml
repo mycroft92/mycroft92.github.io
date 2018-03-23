@@ -40,6 +40,12 @@ plugins:
 #permalink: /:year-:month-:day-:title/
 paginate: 5
 
+defaults:
+  - scope:
+      path: "assets/personal"
+    values:
+      image: true
+
 #mydefines
 mytags:
   - Duelyst
