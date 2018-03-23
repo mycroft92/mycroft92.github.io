@@ -37,7 +37,7 @@ plugins:
   - jekyll-gist
   - jekyll-octicons
 
-permalink: /:year-:month-:day-:title/
+#permalink: /:year-:month-:day-:title/
 paginate: 5
 
 #mydefines
@@ -46,6 +46,9 @@ mytags:
   - Decks
   - Programming
   - Music
+  - LLVM
+  - Python
+  - C++
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
