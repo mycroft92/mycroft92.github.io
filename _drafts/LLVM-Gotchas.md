@@ -15,7 +15,7 @@ tags: Programming LLVM
 - VerifyFunction and Module functions
 - Nemiver for debug
 - JIT failures and workarounds
-- Things I want to figure out- Code generation for arrays, multithreaded semantics, better casting support
+- Things I want to figure out- Code generation for arrays, pointers, multithreaded semantics, better casting support
 
 
 
