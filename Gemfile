@@ -33,3 +33,5 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem "pygments.rb"
 
+gem "eventmachine", ">1.2.5"
+gem "public_suffix"
