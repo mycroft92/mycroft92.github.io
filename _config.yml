@@ -54,7 +54,8 @@ mytags:
   - Music
   - LLVM
   - Python
-  - C++
+  - Coq
+  - Logic
   - General
 
 # Exclude from processing.
